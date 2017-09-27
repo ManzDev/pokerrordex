@@ -18,7 +18,7 @@ var _loop = function _loop(i) {
     img.onerror = function () {
         item.textContent = i;
     };
-    img.src = '/img/error-' + i + '.jpg';
+    img.src = '/pokerrordex/img/error-' + i + '.jpg';
     img.alt = '' + i;
 
     img.onload = function () {

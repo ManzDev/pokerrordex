@@ -6,20 +6,20 @@ body {
 @font-face {
   font-family: 'Generica';
   font-weight: 400;
-  src: local('Generica'), url(/assets/generica.woff), url(/assets/generica.otf);
+  src: local('Generica'), url(/pokerrordex/assets/generica.woff), url(/pokerrordex/assets/generica.otf);
 }
 @font-face {
   font-family: 'Generica Bold';
   font-weight: 800;
-  src: local('Generica Bold'), url(/assets/generica-bold.woff), url(/assets/generica-bold.otf);
+  src: local('Generica Bold'), url(/pokerrordex/assets/generica-bold.woff), url(/pokerrordex/assets/generica-bold.otf);
 }
 @font-face {
   font-family: 'Pokemon Solid';
-  src: local('Pokemon Solid'), url(/assets/pokemon-solid.ttf), url(/assets/pokemon-solid.woff);
+  src: local('Pokemon Solid'), url(/pokerrordex/assets/pokemon-solid.ttf), url(/pokerrordex/assets/pokemon-solid.woff);
 }
 @font-face {
   font-family: 'Pokemon Hollow';
-  src: local('Pokemon Hollow'), url(/assets/pokemon-hollow.ttf), url(/assets/pokemon-hollow.woff);
+  src: local('Pokemon Hollow'), url(/pokerrordex/assets/pokemon-hollow.ttf), url(/pokerrordex/assets/pokemon-hollow.woff);
 }
 h1,
 h2 {
